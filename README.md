@@ -6,14 +6,12 @@ My name is Mauro and I'm starting my journey in this fantastic world of programm
 
 ### Interests
 
-Currently my main interest is web development and its different applications.
+My main interest at the moment is learning Python and its different applications. I think it is a very versatile language that allows me to discover the different areas of computer science.
 
 ### Learning
 
 I'm currently learning:
-- HTML
-- CSS
-- JavaScript
+- Python
 
 ### Collaborate
 
