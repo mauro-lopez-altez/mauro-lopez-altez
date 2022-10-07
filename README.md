@@ -18,8 +18,8 @@ My main interest at the moment is learning Python and its different applications
 
 ### 🧰  Languages and Tools
 
-<img aligh='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
-<img aligh='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
-<img aligh='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+<img align='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
+<img align='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'/>
+<img align='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
 
 ---
