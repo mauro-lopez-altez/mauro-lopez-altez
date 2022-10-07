@@ -7,10 +7,10 @@ My name is Mauro and I'm starting my journey in this fantastic world of programm
 My main interest at the moment is learning Python and its different applications. I think it is a very versatile language that allows me to discover the different areas of computer science.
 
 <p align='left'>
-  
-  <img src='https://i.gifer.com/7LIp.gif'>
   <img src='https://www.codewars.com/users/mauro-lopez-altez/badges/large'>
 </p>
+
+![](https://github.com/mauro-lopez-altez/mauro-lopez-altez/blob/main/7LIp.gif)
 
 Yu can contact me by email:
 mauro.lopez.altez@gmail.com
