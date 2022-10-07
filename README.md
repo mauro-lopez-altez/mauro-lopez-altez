@@ -16,7 +16,7 @@ My main interest at the moment is learning Python and its different applications
 
 ---
 
-### 🧰  Languages and Tools
+### 🧰   Languages and Tools
 
 <img align='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
 <img align='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'/>
@@ -26,4 +26,9 @@ My main interest at the moment is learning Python and its different applications
 <img align='left' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg'/>
 
 <br />
+
 ---
+
+### 📊   Stats
+
+![Mauro's Github stats](https://github-readme-stats.vercel.app/api?username=mauro-lopez-altez&show_icons=true&theme=gruvbox)
