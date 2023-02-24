@@ -12,7 +12,6 @@ My main interest at the moment is learning Python and its different applications
   </a>
 </p>
 
-![](https://github.com/mauro-lopez-altez/mauro-lopez-altez/blob/main/7LIp.gif)
 
 ---
 
