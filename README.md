@@ -28,6 +28,7 @@ My main interest at the moment is learning Python and its different applications
 
 ---
 
+[![roadmap.sh](https://roadmap.sh/card/tall/66bb98e24e7fe8964e10fc64?variant=dark)](https://roadmap.sh)
 ### 📊   Stats
 
 ![Mauro's Github stats](https://github-readme-stats.vercel.app/api?username=mauro-lopez-altez&show_icons=true&theme=gruvbox)
